@@ -154,7 +154,4 @@ Mandatory:
 · Input validation
 · REST conventions - status codes and messages
 · Clean variable naming
-Submission Instruction
-· Submit the Githib Repo
-· Commit code every 20 minutes.
-· Do NOT commit anything after deadline.
+
