@@ -158,5 +158,3 @@ Submission Instruction
 · Submit the Githib Repo
 · Commit code every 20 minutes.
 · Do NOT commit anything after deadline.
-
-<img width="855" height="5466" alt="image" src="https://github.com/user-attachments/assets/8adaeaaf-9dd2-471d-aba8-e96fb5ae9cbb" />
